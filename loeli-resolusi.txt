@@ -2,4 +2,4 @@
 - membuat platform untuk pengelolaan project desaign or web dev
 - membuat form project
 - resolusi 2021 membuat sebanyak mungkin project
-- membuat march shop untuk komunitas
+- membuat youtobe
